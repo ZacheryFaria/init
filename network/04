@@ -1,0 +1,1 @@
+route -n get default | grep gateway | awk -F 'gateway: ' '{print $2}'
