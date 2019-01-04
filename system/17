@@ -1,1 +1,1 @@
-ssh -p 2222 user@hostname
+ssh user@hostname
